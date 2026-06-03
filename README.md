@@ -40,10 +40,10 @@ I design and develop **fast, scalable, and visually premium web applications** u
 
 ##  Featured Work
 
-- 🧩 Modern SaaS Dashboard (Next.js + Tailwind)
-- 🛒 E-commerce UI with Stripe integration
-- 🎨 UI Design System (Reusable components)
-- 🌐 Portfolio Website (animated + responsive)
+-  Modern SaaS Dashboard (Next.js + Tailwind)
+-  E-commerce UI with Stripe integration
+-  UI Design System (Reusable components)
+-  Portfolio Website (animated + responsive)
 
 ---
 
@@ -55,7 +55,7 @@ I design and develop **fast, scalable, and visually premium web applications** u
 
 ---
 
-## 🐍 Contribution Activity
+## Contribution Activity
 
 <p align="center">
   <img src="https://github-stats-munkhdev.vercel.app/api?username=munkhdev&show_icons=true&theme=tokyonight" />
@@ -63,7 +63,7 @@ I design and develop **fast, scalable, and visually premium web applications** u
 
 ---
 
-## 📬 Contact
+##  Contact
 
 - 📧 Email: hello.munkh@gmail.com  
 - 🌐 Portfolio: https://portfolio-ten-teal-9uudofaj5v.vercel.app  
