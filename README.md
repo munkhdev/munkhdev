@@ -33,8 +33,7 @@ I design and develop **fast, scalable, and visually premium web applications** u
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&style=for-the-badge)
-https://img.shields.io/endpoint?url=https%3A%2F%2Fwww.mongodb.com
-![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fwww.mongodb.com)
+![MongoDB ](https://img.shields.io/endpoint?url=https%3A%2F%2Fwww.mongodb.com)
 
 </p>
 
