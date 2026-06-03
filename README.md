@@ -4,15 +4,6 @@ Full-stack Developer
 
 I build modern, responsive and premium web experiences using Next.js, React and Tailwind CSS.
 
-## 🚀 Tech Stack
-
-- Next.js
-- React
-- TypeScript
-- Tailwind CSS
-- Shadcn UI
-- Figma
-
 ## 📈 GitHub Stats
 
 <p align="center">
