@@ -34,7 +34,7 @@ I design and develop **fast, scalable, and visually premium web applications** u
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Laravel ](https://img.shields.io/badge/Laravel-#FF2D20?logo=lravel&style=for-the-badge)
+![Laravel](https://img.shields.io/badge/Laravel-#FF2D20?logo=laravel&style=for-the-badge)
 
 </p>
 
