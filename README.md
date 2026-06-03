@@ -15,7 +15,7 @@ I build modern, responsive and premium web experiences using Next.js, React and 
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=munkhdev&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muunuu&show_icons=true&theme=tokyonight)
 
 ## 🔥 Featured Projects
 
