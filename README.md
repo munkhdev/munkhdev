@@ -19,7 +19,10 @@ I build modern, responsive and premium web experiences using Next.js, React and 
 
 ## 🔥 Featured Projects
 
-
+<p align="center">
+  <img src="https://github-stats-munkhdev.vercel.app/api?username=munkhdev&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-stats-munkhdev.vercel.app/api/top-langs/?username=munkhdev&layout=compact&theme=tokyonight" height="170"/>
+</p>
 
 Email
 LinkedIn
