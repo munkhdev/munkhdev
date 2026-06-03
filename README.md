@@ -77,13 +77,6 @@ I design and develop **fast, scalable, and visually premium web applications** u
 
 ---
 
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-stats-munkhdev.vercel.app/api?username=munkhdev&show_icons=true&theme=tokyonight" />
-</p>
-
----
 
 ##  Contact
 
