@@ -89,8 +89,8 @@ I design and develop **fast, scalable, and visually premium web applications** u
 
 ##  Contact
 
-- 📧 Email: hello.munkh@gmail.com  
-- 🌐 Portfolio: https://portfolio-ten-teal-9uudofaj5v.vercel.app  
+-  Email: hello.munkh@gmail.com  
+-  Portfolio: https://portfolio-ten-teal-9uudofaj5v.vercel.app  
 ---
 
 <p align="center">
