@@ -15,10 +15,6 @@ I build modern, responsive and premium web experiences using Next.js, React and 
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muunuu&show_icons=true&theme=tokyonight)
-
-## 🔥 Featured Projects
-
 <p align="center">
   <img src="https://github-stats-munkhdev.vercel.app/api?username=munkhdev&show_icons=true&theme=tokyonight" height="170"/>
   <img src="https://github-stats-munkhdev.vercel.app/api/top-langs/?username=munkhdev&layout=compact&theme=tokyonight" height="170"/>
