@@ -1,89 +1,64 @@
-# Hi, I'm Munkhbold 
+# Munkhbold
+> Full-Stack Engineer & Digital Product Architect
 
-> Full-Stack Developer  | Builder of modern web experiences
-
-I design and develop **fast, scalable, and visually premium web applications** using modern frontend architecture.
-
----
-
-## GitHub Overview
-
-<p align="center">
-  <img src="https://github-stats-munkhdev.vercel.app/api?username=munkhdev&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-stats-munkhdev.vercel.app/api/top-langs/?username=munkhdev&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<p align="left">
+  <strong>Crafting premium, high-performance web applications with a focus on flawless frontend execution and scalable architecture.</strong>
 </p>
 
 ---
 
-##  Activity & Performance
+## Brand Architecture & Tech Stack
+
+### Frontend & Interface
+`Next.js (App Router)` &nbsp;&bull;&nbsp; `React 19` &nbsp;&bull;&nbsp; `TypeScript` &nbsp;&bull;&nbsp; `Tailwind CSS` &nbsp;&bull;&nbsp; `Shadcn UI` &nbsp;&bull;&nbsp; `Sass`
+
+### Systems & Core Services
+`Node.js` &nbsp;&bull;&nbsp; `Express.js` &nbsp;&bull;&nbsp; `Laravel` &nbsp;&bull;&nbsp; `JWT Authentication`
+
+### Persistence & Cloud Infrastructure
+`PostgreSQL` &nbsp;&bull;&nbsp; `Supabase` &nbsp;&bull;&nbsp; `MongoDB` &nbsp;&bull;&nbsp; `MySQL` &nbsp;&bull;&nbsp; `Firebase` &nbsp;&bull;&nbsp; `Vercel`
+
+---
+
+## Selected Work & Digital Assets
+
+#### 01 / Premium SaaS Dashboard
+A production-ready dashboard engineered for real-time data visualization, featuring custom dark-mode optimization and highly polished user interfaces built on Next.js.
+
+#### 02 / Full-Stack E-Commerce Architecture
+A high-conversion storefront built with modern checkout flows, robust inventory management, and seamless secure payment integrations.
+
+#### 03 / UI Design Systems
+A private library of accessible, performant, and deeply customizable components built for maximum development velocity.
+
+#### 04 / Animated Portfolio Ecosystem
+A visually refined, fluidly animated portfolio framework designed specifically to elevate digital presence and client conversion.
+
+---
+
+## Analytics & Performance
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=munkhdev&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-stats-munkhdev.vercel.app/api?username=munkhdev&show_icons=false&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=0052FF&text_color=ffffff" height="150"/>
+  <img src="https://github-stats-munkhdev.vercel.app/api/top-langs/?username=munkhdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=0052FF&text_color=ffffff" height="150"/>
 </p>
 
----
-<div align="center">
-
-## Architecture & Tech Stack
-
-### Core Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
-
-### UI & Styling
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-![Sass](https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass&logoColor=CC6699)
-![Shadcn/UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge)
-
-### Backend & Core Services
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=FF2D20)
-
-### Database Management
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=336791)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1)
-
-### Authentication & Infrastructure
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
-![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-
-### Deployment & Tools
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-
-</div>
-
----
-
-##  Featured Work
-
--  Modern SaaS Dashboard (Next.js + Tailwind)
--  E-commerce UI with Stripe integration
--  UI Design System (Reusable components)
--  Portfolio Website (animated + responsive)
-
----
-
-##  GitHub Insights
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=munkhdev&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=munkhdev&theme=tokyonight&hide_border=true&background=00000000&sideLabels=false&stroke=0052FF&ring=0052FF&fire=0052FF&currStreakLabel=ffffff" height="140"/>
 </p>
 
 ---
 
+## Communications
 
-##  Contact
+Available for select freelance contracts, premium technical consultations, and digital template acquisitions.
 
--  Email: hello.munkh@gmail.com  
--  Portfolio: https://portfolio-ten-teal-9uudofaj5v.vercel.app  
----
+* **Digital Portfolio** &mdash; [portfolio.munkhdev.com](https://portfolio-ten-teal-9uudofaj5v.vercel.app)
+* **Inquiries** &mdash; hello.munkh@gmail.com
+* **Professional Networks** &mdash; [Fiverr / Upwork Links]
+
+<br />
 
 <p align="center">
-  <b>“Building interfaces that feel like products, not pages.”</b>
+  <font color="#0052FF"><i>“Building interfaces that feel like products, not pages.”</i></font>
 </p>
