@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Munkhbold 👋
 
-<!--
-**munkhdev/munkhdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack Developer
 
-Here are some ideas to get you started:
+I build modern, responsive and premium web experiences using Next.js, React and Tailwind CSS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Shadcn UI
+- Figma
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=munkhdev&show_icons=true&theme=tokyonight)
+
+## 🔥 Featured Projects
+
+
+
+Email
+LinkedIn
+Portfolio
