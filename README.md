@@ -13,7 +13,9 @@ I design and develop **fast, scalable, and visually premium web applications** u
   <img src="https://github-stats-munkhdev.vercel.app/api?username=munkhdev&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-stats-munkhdev.vercel.app/api/top-langs/?username=munkhdev&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=munkhdev&theme=tokyonight" />
+</p>
 ---
 
 ##  Activity & Performance
@@ -70,13 +72,6 @@ I design and develop **fast, scalable, and visually premium web applications** u
 
 ---
 
-##  GitHub Insights
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=munkhdev&theme=tokyonight" />
-</p>
-
----
 
 
 ##  Contact
