@@ -6,7 +6,28 @@ GitHub readme
 I design and develop **fast, scalable, and visually premium web applications** using modern frontend architecture.
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Next.js+%7C+Node.js+%7C+Flutter;Building+Scalable+Web+Apps;UI+%26+System+Design+Lover" />
+</p>
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=munkhdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</p>
+---
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=munkhdev&theme=tokyonight&hide_border=true" />
 
+---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+---
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,ts,tailwind,flutter,postgres&theme=dark" />
+</p>
+---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header"/>
+</p>
 ## GitHub Overview
 
 <p align="center">
