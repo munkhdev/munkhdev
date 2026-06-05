@@ -1,7 +1,7 @@
 GitHub readme
 # Hi, I'm Munkhbold 
 
-> Full-Stack Developer  | Builder of modern web experiences
+> Full-Stack web and app developer
 
 I design and develop **fast, scalable, and visually premium web applications** using modern frontend architecture.
 
