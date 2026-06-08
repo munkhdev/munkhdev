@@ -1,4 +1,4 @@
-# Hi, I'm Munkhbold 👋
+# Hi, I'm Munkhbold 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header"/>
@@ -10,14 +10,14 @@
 
 ---
 
-## 🧠 Philosophy
+## Philosophy
 
 > I build systems, not just pages.  
 > Focused on performance, architecture, and clean UI engineering.
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 ---
 <img src="https://raw.githubusercontent.com/username/profile-3d-contrib/main/profile-night-rainbow.svg" />
 
@@ -32,7 +32,7 @@
 
 ---
 
-## ⚡ Activity Flow
+## Activity Flow
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=munkhdev&theme=tokyonight&hide_border=true" />
@@ -44,7 +44,7 @@
 
 ---
 
-## 🧩 Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,ts,tailwind,flutter,postgres,mongodb,git,github,vercel&theme=dark" />
@@ -52,7 +52,7 @@
 
 ---
 
-## 🏗️ Engineering Focus
+##  Engineering Focus
 
 - Scalable Frontend Architecture (Next.js)
 - Component-Driven UI Systems
@@ -62,7 +62,7 @@
 
 ---
 
-## 🚀 Featured Work
+##  Featured Work
 
 - SaaS Dashboard (Next.js + System Design)
 - E-commerce Platform (Stripe Integration)
@@ -71,7 +71,7 @@
 
 ---
 
-## 📬 Contact
+##  Contact
 
 - Email: hello.munkh@gmail.com  
 - Portfolio: https://portfolio-ten-teal-9uudofaj5v.vercel.app  
